@@ -1,4 +1,16 @@
-# sense-navigation
+# sense-navigation - up to 5 actions
+---
+
+Based on stefanwalther/sense-navigation project master branch - [link](https://github.com/stefanwalther/sense-navigation) 
+
+Added possibility to have up to 5 actions triggered by the extension. Tested on Qlik Sense April 2018.
+
+All the contents are in the **5 actions** folder.
+
+Below is the original read me file.
+
+---
+
 > Sense Sheet Navigation + Actions visualization extension for Qlik Sense.
 
 ![](https://raw.githubusercontent.com/stefanwalther/sense-navigation/master/docs/images/sense-navigation.png)
